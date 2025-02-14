@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tush-tayal/text-editor/static/css/main.57ab732f.css",
+    "main.js": "/tush-tayal/text-editor/static/js/main.665175cd.js",
+    "index.html": "/tush-tayal/text-editor/index.html",
+    "main.57ab732f.css.map": "/tush-tayal/text-editor/static/css/main.57ab732f.css.map",
+    "main.665175cd.js.map": "/tush-tayal/text-editor/static/js/main.665175cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57ab732f.css",
+    "static/js/main.665175cd.js"
+  ]
+}
